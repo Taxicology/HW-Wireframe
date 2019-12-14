@@ -1,0 +1,38 @@
+body{
+    background-color: gray;
+}
+
+header{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+nav{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+section{
+    background-color: whitesmoke;
+}
+
+article{
+    background-color:grey;
+}
+
+h1{
+    background-color: whitesmoke;
+}
+
+p{
+    background-color: whitesmoke;
+}
+
+aside{
+    background-color: whitesmoke;
+}
+
+footer{
+    text-align: center;
+    background-color: whitesmoke;
+}
